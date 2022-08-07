@@ -1,0 +1,48 @@
+.ant-card {
+  background: none;
+}
+
+.ant-card-grid {
+  padding: 20px;
+}
+
+.ant-row {
+  margin-left: 155px;
+}
+
+.card-desc {
+  background: linear-gradient(#ea7a9a, #fac7b6);
+  padding: 25px;
+}
+
+.card-desc {
+  border-radius: 20px;
+  width: 330px;
+  height: 168px;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.card-text-area {
+  display: inline;
+  float: left;
+}
+
+.card-text-area h2 {
+  font-size: 40px;
+  font-weight: bold;
+  color: #fff;
+  padding-top: 10px;
+}
+
+.card-text-area h4 {
+  font-size: 16px;
+  font-weight: bold;
+  color: #fff;
+}
+
+.card-image-area {
+  display: inline;
+  float: right;
+  padding-top: 10px;
+}

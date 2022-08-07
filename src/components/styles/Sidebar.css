@@ -1,0 +1,252 @@
+.site-logo {
+    padding-top: 45px;
+    padding-left: 100px;
+    display: block;
+}
+
+.ant-layout-sider-children {
+    height: 100vh;
+    background-color: #FFFFFF;
+    width: 345px;
+}
+
+.ant-layout-sider,
+.ant-layout-sider-dark {
+    background-color: #FFFFFF;
+}
+
+.ant-menu-item {
+    left: 28px;
+    width: 289px;
+    height: 67px;
+}
+
+.ant-menu {
+    padding-top: 64px;
+}
+
+.ant-menu-vertical .ant-menu-item::after,
+.ant-menu-vertical-left .ant-menu-item::after,
+.ant-menu-vertical-right .ant-menu-item::after,
+.ant-menu-inline .ant-menu-item::after {
+    border-right: none;
+}
+
+
+.ant-menu-item-selected,
+.ant-menu-item-active {
+    background-color: #EA7A9A !important;
+    font-weight: bold;
+    color: #FFFFFF !important;
+    border-radius: 55px;
+}
+
+.ant-menu-inline .ant-menu-item,
+.ant-menu-inline .ant-menu-submenu-title {
+    width: 289px;
+}
+
+.ant-menu-inline,
+.ant-menu-vertical,
+.ant-menu-vertical-left {
+    border-right: none !important;
+}
+
+
+.ant-menu-item {
+    width: 289px;
+}
+
+.food-serve-icon {
+    top: '688px';
+    left: '142px';
+    width: '58px';
+    height: '58px';
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.food-serve-header {
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.food-serve-description {
+    text-align: center;
+    color: #909090;
+}
+
+.menu-button {
+    background-color: #3E3F7A;
+    border: none;
+    /* top: 865px; */
+    left: 87px;
+    width: 168px;
+    height: 46px;
+    border-radius: 26px;
+    font-weight: bold;
+}
+
+.menu-button:hover {
+    background-color: #3E3F7A;
+}
+
+.copyright-area {
+    text-align: center;
+    padding-top: 10px;
+    color: #7C7C7C;
+    font-size: 13px;
+    font-weight: bold;
+}
+
+.copyright-area-1,
+.copyright-area-2 {
+    font-weight: normal !important;
+}
+
+.copyright-area-1,
+.copyright-area-2 {
+    font-size: 12px !important;
+}
+
+.main {
+    background-color: #fff;
+    display: flex;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    height: 120px;
+    left: 523px;
+    line-height: 22px;
+    top: 0;
+}
+
+.dashboard-header {
+    position: absolute;
+    /* left: 423px; */
+    font-size: 28px;
+    font-weight: bold;
+    top: 18px;
+    left: 395px;
+    width: 159px;
+    height: 39px;
+    text-align: left;
+}
+
+.dashboard-header-admin {
+    position: absolute;
+    font-size: 18px;
+    color: #969BA0;
+    top: 67px;
+    text-align: left;
+    left: 395px;
+    width: 236px;
+    height: 25px;
+    letter-spacing: 0px;
+}
+
+.input-search-area {
+    position: absolute;
+    top: 32px;
+    left: 777px;
+    width: 453px;
+    height: 56px;
+    background: #FDFDFD 0% 0% no-repeat padding-box;
+    border-radius: 41px;
+    opacity: 1;
+    outline: none;
+}
+
+.input-search-area:focus {
+    outline: none;
+}
+
+.notification-area {
+    display: flex;
+}
+
+.notification-bar {
+    position: absolute;
+}
+
+.bellIcon {
+    padding: 0;
+    position: absolute;
+    top: 47px;
+    left: 1301px;
+    width: 25px;
+    height: 24px;
+    opacity: 1;
+}
+
+.twelveIcon {
+    padding: 0;
+    position: absolute;
+    top: 22px;
+    left: 1323px;
+    width: 26px;
+    height: 26px;
+    opacity: 1;
+}
+
+.chatIcon {
+    padding: 0;
+    position: absolute;
+    top: 45px;
+    left: 1377px;
+    width: 28px;
+    height: 28px;
+    opacity: 1;
+}
+
+.fiveIcon {
+    padding: 0;
+    position: absolute;
+    top: 22px;
+    left: 1403px;
+    width: 26px;
+    height: 26px;
+    opacity: 1;
+}
+
+.bonusIcon {
+    padding: 0;
+    position: absolute;
+    top: 47px;
+    left: 1459px;
+    width: 25px;
+    height: 24px;
+    opacity: 1;
+}
+
+.twoIcon {
+    padding: 0;
+    position: absolute;
+    top: 22px;
+    left: 1483px;
+    width: 26px;
+    height: 26px;
+    opacity: 1;
+}
+
+.settingIcon {
+    padding: 0;
+    position: absolute;
+    top: 49px;
+    left: 1540px;
+    width: 22px;
+    height: 22px;
+    opacity: 1;
+}
+
+.oneIcon {
+    padding: 0;
+    position: absolute;
+    top: 24px;
+    left: 1565px;
+    width: 22px;
+    height: 22px;
+    opacity: 1;
+}

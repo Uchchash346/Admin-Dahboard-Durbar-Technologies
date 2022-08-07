@@ -1,0 +1,23 @@
+.customer-map-area {
+    top: 970px;
+    left: 395px;
+    width: 1097px;
+    height: 518px;
+    box-shadow: 0px 1px 8px #3E49540A;
+    border-radius: 20px;
+    opacity: 1;
+    position: absolute;
+}
+
+.transaction {
+    left: 395px;
+    width: 713px;
+    height: 187px;
+}
+
+.trending {
+    top: 970px;
+    left: 2000px;
+    width: 338px;
+    height: 500px;
+}
